@@ -24,8 +24,8 @@ Here is a list of my favorite restaurants and why I recommend them. Each of thes
 
 ## Favorite Quotes
 
-> "I have a lot of growing up to do. I realized that the other day inside my fort."  
-*— Zach Galifianakis*
+> "In the end, it's not the years in your life that count. It's the life in your years."  
+*— Abraham Lincoln*
 
 > "I told my wife the truth. I told her I was seeing a psychiatrist. Then she told me the truth: that she was seeing a psychiatrist, two plumbers, and a bartender."  
 *— Rodney Dangerfield*
