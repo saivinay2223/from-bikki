@@ -17,3 +17,7 @@ I love **cricket** because it is a dynamic and **most played** game that require
 - Local Football Field
 - High School Stadium
 - Sports Complex
+
+---
+
+For more details, check out [My Favorite Dish](./MyDish.md).
