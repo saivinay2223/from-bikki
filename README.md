@@ -10,3 +10,10 @@ I love **cricket** because it is a dynamic and **most played** game that require
 1. Cristiano Ronaldo
 2. Lionel Messi
 3. Neymar Jr.
+
+---
+
+### Places to Play Football
+- Local Football Field
+- High School Stadium
+- Sports Complex
