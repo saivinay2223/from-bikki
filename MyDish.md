@@ -30,5 +30,15 @@ Here is a list of my favorite restaurants and why I recommend them. Each of thes
 > "I told my wife the truth. I told her I was seeing a psychiatrist. Then she told me the truth: that she was seeing a psychiatrist, two plumbers, and a bartender."  
 *— Rodney Dangerfield*
 
+## Code Snippet Example
 
+```python
+def merge(*args, missing_val = None):
+  max_length = max([len(lst) for lst in args])
+  out_list = []
+
+  for i in range(max_length):
+    out_list.append([args[k][i] if i < len(args[k]) else missing_val for k in range(len(args))])
+
+  return out_list
 
