@@ -16,7 +16,7 @@ I love **cricket** because it is a dynamic and **most played** game that require
 ### Places to Play cricket
 - Local cricket Field
 - High School Stadium
-- Sports Complex
+- Sports club
 
 ---
 
