@@ -5,16 +5,16 @@ I love **cricket** because it is a dynamic and **most played** game that require
 
 ---
 
-### Top Football Players
+### Top cricket Players
 
-1. Cristiano Ronaldo
-2. Lionel Messi
-3. Neymar Jr.
+1. Ms.Dhoni
+2. Virat Kohli
+3. Rohith Sharma
 
 ---
 
-### Places to Play Football
-- Local Football Field
+### Places to Play cricket
+- Local cricket Field
 - High School Stadium
 - Sports Complex
 
